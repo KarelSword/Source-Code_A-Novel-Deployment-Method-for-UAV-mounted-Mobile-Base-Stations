@@ -26,7 +26,7 @@ Includes the following modules:
 - K-means
 - Theoretical optimal solution to the k-center problem 
 
-The code is poorly written and barely runs.  
+The code is poorly written, but it can run.
 If you have any questions, feel free to email the address provided in the paper. https://ieeexplore.ieee.org/document/9751512
 
 
